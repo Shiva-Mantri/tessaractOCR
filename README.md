@@ -1,3 +1,10 @@
+# DOCUMENT INTELLIGENCE
+
+### Reference
+- Document Intelligence Workshop 2021 - https://document-intelligence.github.io/DI-2021/
+- Document Intelligence Workshop 2019 - https://sites.google.com/view/di2019/home
+
+
 ## OCR
 
 ### Preprocessing
